@@ -1,0 +1,4 @@
+[32mINFO    [0m alphaCoding测试:conftest.py:9 开始登录
+[32mINFO    [0m alphaCoding测试:conftest.py:16 登录成功
+[32mINFO    [0m alphaCoding测试:test_study.py:10 开始测试学习动态
+[32mINFO    [0m alphaCoding测试:test_study.py:14 测试成功

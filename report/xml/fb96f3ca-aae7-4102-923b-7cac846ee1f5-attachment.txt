@@ -1,0 +1,4 @@
+INFO     alphaCoding测试:conftest.py:9 开始登录
+INFO     alphaCoding测试:conftest.py:16 登录成功
+INFO     alphaCoding测试:test_study.py:10 开始测试学习动态
+INFO     alphaCoding测试:test_study.py:14 测试成功

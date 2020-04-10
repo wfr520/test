@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-2615HPRL",
+    "children" : [ {
+      "name" : "3264-MainThread",
+      "children" : [ {
+        "name" : "test_s",
+        "uid" : "afc7a17461dddda8",
+        "parentUid" : "8b570ebccb658bc32bdf165e0a1375ef",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586486522139,
+          "stop" : 1586486522224,
+          "duration" : 85
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8b570ebccb658bc32bdf165e0a1375ef"
+    } ],
+    "uid" : "32c5ea6d60ec6fc882f4556bfdae7634"
+  } ]
+}

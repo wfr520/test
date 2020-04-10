@@ -1,0 +1,2 @@
+INFO     alphaCoding测试:conftest.py:9 开始登录
+INFO     alphaCoding测试:conftest.py:16 登录成功

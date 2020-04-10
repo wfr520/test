@@ -1,0 +1,76 @@
+{
+  "uid" : "afc7a17461dddda8",
+  "name" : "test_s",
+  "fullName" : "testcases.test_study.Teststudy#test_s",
+  "historyId" : "ea83300b487d9ee84597fa0f1e33e05a",
+  "time" : {
+    "start" : 1586486522139,
+    "stop" : 1586486522224,
+    "duration" : 85
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "login",
+    "time" : {
+      "start" : 1586486521969,
+      "stop" : 1586486522136,
+      "duration" : 167
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "成功获取"
+  }, {
+    "name" : "feature",
+    "value" : "获取学习动态"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_study"
+  }, {
+    "name" : "subSuite",
+    "value" : "Teststudy"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-2615HPRL"
+  }, {
+    "name" : "thread",
+    "value" : "3264-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_study"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "afc7a17461dddda8.json",
+  "parameterValues" : [ ]
+}
